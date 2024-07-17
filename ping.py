@@ -1,5 +1,5 @@
 from time import sleep
 
 while True:
-  print("ping")
+  print("pong")
   sleep(1)
